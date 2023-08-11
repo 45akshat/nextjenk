@@ -1,8 +1,8 @@
 pipeline {
   agent any
   environment {
-    VERCEL_TOKEN=credentials('vercel-token')
-    VERCEL_SCOPE='darinpope'
+    VERCEL_TOKEN=credentials('RFDJb0Ir0r0ldYMKMs5aM2Up')
+    VERCEL_SCOPE='nextpipe'
     WORK_DIR='je-myapp'
   }
   stages {
